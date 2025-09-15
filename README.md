@@ -2,13 +2,19 @@ Hey, I’m Hassan, a Full-Stack Software Engineer passionate about crafting fast
 
 🚀 My recent focus is on enhancing Developer Experience (DX), streamlining workflows, and empowering engineering teams to ship high-quality products faster and more efficiently.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahasan&layout=compact&theme=radical)
+
 What I do:
 
 🛠 Design and develop scalable, maintainable full-stack architectures (microservices and monolithic).
 💻 Build intuitive, high-performance front-end interfaces with a focus on user experience.
+
 ⚡ Optimize back-end systems for speed, reliability, and scalability.
+
 🌍 Champion accessibility to create inclusive digital experiences for all users.
+
 🔄 Implement seamless CI/CD pipelines and DevOps practices to accelerate delivery.
+
 
 Tools I love:
 
