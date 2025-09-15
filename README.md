@@ -2,7 +2,7 @@ Hey, I’m Hassan, a Full-Stack Software Engineer passionate about crafting fast
 
 🚀 My recent focus is on enhancing Developer Experience (DX), streamlining workflows, and empowering engineering teams to ship high-quality products faster and more efficiently.
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadahasan&color=green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadahasan)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahasan&layout=compact&theme=radical)
 
 What I do:
