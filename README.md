@@ -7,6 +7,8 @@ Hey, I’m Hassan, a Full-Stack Software Engineer passionate about crafting fast
 What I do:
 
 🛠 Design and develop scalable, maintainable full-stack architectures (microservices and monolithic).
+
+
 💻 Build intuitive, high-performance front-end interfaces with a focus on user experience.
 
 ⚡ Optimize back-end systems for speed, reliability, and scalability.
