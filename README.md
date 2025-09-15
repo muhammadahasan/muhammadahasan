@@ -21,9 +21,13 @@ What I do:
 Tools I love:
 
 💻 Front-End: JavaScript | TypeScript | React.js | Vue.js | Next.js | CSS Modules | Tailwind CSS
+
 ⚙️ Back-End: Node.js | Express.js | NestJS | Python | FastAPI
+
 📦 Databases: MongoDB | MySQL | PostgreSQL
+
 🧪 Testing & DevOps: Playwright | Storybook | Jest | Docker | Kubernetes | CI/CD (GitHub Actions, Jenkins)
+
 🖌 Tools: Webpack | Vite | GraphQL | REST APIs
 
 Connect with me:
