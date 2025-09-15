@@ -3,6 +3,7 @@ Hey, I’m Hassan, a Full-Stack Software Engineer passionate about crafting fast
 🚀 My recent focus is on enhancing Developer Experience (DX), streamlining workflows, and empowering engineering teams to ship high-quality products faster and more efficiently.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadahasan&show_icons=true&theme=transparent)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahasan&layout=compact&theme=radical)
 
 What I do:
